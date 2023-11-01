@@ -2,7 +2,14 @@
 
 
 
-## v0.1.2 (2023-11-01)
+## v0.1.3 (2023-11-01)
+
+### Fix
+
+* fix: Unexpose gamma ([`1531f93`](https://github.com/rmpark1/plasmatk/commit/1531f939548b07b42f410ac148fd76d5fd4acf73))
+
+
+## v0.1.2 (2023-11-02)
 
 ### Fix
 
