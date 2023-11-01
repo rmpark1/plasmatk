@@ -2,7 +2,14 @@
 
 
 
-## v0.1.1 (2023-11-01)
+## v0.1.2 (2023-11-01)
+
+### Fix
+
+* fix: expose coupling parameter ([`c37f0e7`](https://github.com/rmpark1/plasmatk/commit/c37f0e7f1461aa698809a68aea55a89d7347ccae))
+
+
+## v0.1.1 (2023-11-02)
 
 ### Documentation
 
