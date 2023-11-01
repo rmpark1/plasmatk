@@ -25,7 +25,7 @@ extensions = [
     "sphinx.ext.autosummary",
     "sphinx.ext.duration",
 ]
-autoapi_dirs = ["../src"]
+autoapi_dirs = ["../../src"]
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
