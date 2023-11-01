@@ -2,7 +2,14 @@
 
 
 
-## v0.1.3 (2023-11-01)
+## v0.1.4 (2023-11-01)
+
+### Fix
+
+* fix: re-add gamma ([`19a7921`](https://github.com/rmpark1/plasmatk/commit/19a7921f327454603f8641016e12b31e8ab4b04e))
+
+
+## v0.1.3 (2023-11-02)
 
 ### Fix
 
