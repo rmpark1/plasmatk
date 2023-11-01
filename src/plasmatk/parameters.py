@@ -55,6 +55,5 @@ def wpe(n, T, B):
     return np.sqrt(c.e**2 * n / (epsilon_0 * m_e) )
 
 def wce(n, T, B):
+    """The electron cyclofrequency."""
     return e*B/m_e
-
-
