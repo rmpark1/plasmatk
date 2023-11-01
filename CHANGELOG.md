@@ -2,7 +2,22 @@
 
 
 
-## v0.1.0 (2023-11-01)
+## v0.1.1 (2023-11-01)
+
+### Documentation
+
+* docs: update version_toml attribute ([`985a28c`](https://github.com/rmpark1/plasmatk/commit/985a28cba71f2ed22ea6dd0b4af83ace11d989bd))
+
+### Fix
+
+* fix: Extraneous doc &#39;fix&#39; ([`3707895`](https://github.com/rmpark1/plasmatk/commit/3707895861a892cc0c39b157c5563802adbaf107))
+
+### Test
+
+* test: add extraneous test ([`fec6b25`](https://github.com/rmpark1/plasmatk/commit/fec6b2501906e3b5d2d7edc870f75788d0f68513))
+
+
+## v0.1.0 (2023-11-02)
 
 ### Build
 
