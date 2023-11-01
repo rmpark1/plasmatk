@@ -11,6 +11,7 @@ python = "^3.9"
 numpy = {version = "^1.26.1", python = ">=3.9,<3.13"}
 pandas = "^2.1.2"
 matplotlib = "^3.8.1"
+scipy = {version = "^1.11.3", python = ">=3.9,<3.13"}
 
 [tool.poetry.dev-dependencies]
 
