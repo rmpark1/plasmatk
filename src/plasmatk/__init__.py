@@ -4,5 +4,6 @@ __version__ = version(__name__)
 
 from . import parameters
 from . import plotting
+from .parameters import Gamma_e
 
 
