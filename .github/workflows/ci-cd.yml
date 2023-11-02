@@ -35,8 +35,7 @@ jobs:
         run: poetry run make html --directory docs/
 
   cd:
-    permissions:
-      actions: write
+    permissions: write-all
     # Only run this job if the "ci" job passes
     needs: ci
 
