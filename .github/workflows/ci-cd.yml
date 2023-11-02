@@ -35,6 +35,8 @@ jobs:
         run: poetry run make html --directory docs/
 
   cd:
+    permissions:
+      actions: write
     # Only run this job if the "ci" job passes
     needs: ci
 
@@ -63,8 +65,6 @@ jobs:
         run: poetry install
 
       - name: Use Python Semantic Release to prepare release
-        permissions:
-          actions: write
         env:
           # This token is created automatically by GH Actions
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
