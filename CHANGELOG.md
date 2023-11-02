@@ -2,7 +2,32 @@
 
 
 
-## v0.1.4 (2023-11-01)
+## v0.1.5 (2023-11-02)
+
+### Fix
+
+* fix: fix with stdout ([`2fea2cf`](https://github.com/rmpark1/plasmatk/commit/2fea2cf78e77c0fcf75dce542bfd4f448cfde0d1))
+
+* fix: another one xx ([`5c4fab9`](https://github.com/rmpark1/plasmatk/commit/5c4fab9216d3dbfc20053a430ed54554f7af5f2b))
+
+* fix: another one ([`789140f`](https://github.com/rmpark1/plasmatk/commit/789140f0cc85d760643588bbea9d70b8b379d337))
+
+* fix: add new stdout cd tracking ([`4920c9a`](https://github.com/rmpark1/plasmatk/commit/4920c9afac3654029000d1f4ac5c59592ca6a123))
+
+* fix: remove ciprint ([`63d8257`](https://github.com/rmpark1/plasmatk/commit/63d8257ec12f33ef3c43da4a33e22a852a80edf8))
+
+* fix: add output posting ([`5665257`](https://github.com/rmpark1/plasmatk/commit/56652579657713bbe18a31b64fae529efe23378a))
+
+* fix: See if version first fixes cd. ([`3b2cbc3`](https://github.com/rmpark1/plasmatk/commit/3b2cbc30bbb9e2945568c29f6670c651cca67ab9))
+
+* fix: remove to create CD release ([`9a3e4eb`](https://github.com/rmpark1/plasmatk/commit/9a3e4ebce31aa83dd480340514424f0f1adf8eda))
+
+### Unknown
+
+* non-fix udpate ([`cce5f4f`](https://github.com/rmpark1/plasmatk/commit/cce5f4fd30afa90c3f8d4166a721ee38e5f6e19c))
+
+
+## v0.1.4 (2023-11-02)
 
 ### Fix
 
