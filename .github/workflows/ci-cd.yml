@@ -69,9 +69,7 @@ jobs:
         run: |
             git config user.name github-actions
             git config user.email github-actions@github.com
-            poetry run semantic-release version
-            ls
-            ls dist
+            poetry run semantic-release -vv publish
         id: run_sem_release
 
       - name: Print Semantic Publish STDOUT
