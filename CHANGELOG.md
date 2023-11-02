@@ -2,6 +2,17 @@
 
 
 
+## v0.1.6 (2023-11-02)
+
+### Fix
+
+* fix: open to write-all ([`c60d268`](https://github.com/rmpark1/plasmatk/commit/c60d268515fd0247443f7ae1d89bc9c380838fdb))
+
+* fix: move permission line ([`7208cbd`](https://github.com/rmpark1/plasmatk/commit/7208cbd1044824c1bf61629c94197febc1be8906))
+
+* fix: Try CI/CD with permissions api ([`ea5d284`](https://github.com/rmpark1/plasmatk/commit/ea5d28456238d29cbe4a415a6b128f17e62cf9bd))
+
+
 ## v0.1.5 (2023-11-02)
 
 ### Fix
