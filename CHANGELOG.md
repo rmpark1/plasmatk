@@ -2,6 +2,17 @@
 
 
 
+## v0.4.1 (2023-11-03)
+
+### Build
+
+* build: change permissions in cd step ([`fa03dde`](https://github.com/rmpark1/plasmatk/commit/fa03dde9c09844ce3a035aa0027da800252c8e04))
+
+### Fix
+
+* fix: add text data dependency ([`9c5a1b8`](https://github.com/rmpark1/plasmatk/commit/9c5a1b892f44113fed68afea6b32cc335f0a28ce))
+
+
 ## v0.4.0 (2023-11-03)
 
 ### Build
