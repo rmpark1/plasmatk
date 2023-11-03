@@ -25,3 +25,6 @@ def plot_mag_regimes_nT():
     in density-temperature space."""
     # Change
     pass
+
+def plot_mag_regimes_nTB():
+    pass
