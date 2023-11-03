@@ -5,7 +5,7 @@ description = "A collection of tools for plasma physicists"
 authors = ["Ryan Park"]
 license = "MIT"
 readme = "README.md"
-include = ["src/pycountsrmpark/cpp/*.cpp"]
+include = ["src/pycountsrmpark/cpp/{*.cpp,*.txt}"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
