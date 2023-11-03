@@ -2,6 +2,21 @@
 
 
 
+## v0.3.0 (2023-11-03)
+
+### Feature
+
+* feat: add B regime plot ([`aa24157`](https://github.com/rmpark1/plasmatk/commit/aa241578a4068cee83b4ef71c254feedc8f028b7))
+
+### Unknown
+
+* Merge pull request #1 from rmpark1/feature
+
+feat: add B regime plot ([`42c6023`](https://github.com/rmpark1/plasmatk/commit/42c6023c13877403be41eb9c9ccee62a4db9894e))
+
+* What happens when angular is not used? ([`1b7c6bf`](https://github.com/rmpark1/plasmatk/commit/1b7c6bfe0bfa5558c21e4238c9a6d40e7fe4ba57))
+
+
 ## v0.2.0 (2023-11-03)
 
 ### Chore
