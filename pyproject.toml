@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "plasmatk"
-version = "0.1.6"
+version = "0.2.0"
 description = "A collection of tools for plasma physicists"
 authors = ["Ryan Park"]
 license = "MIT"

@@ -2,6 +2,21 @@
 
 
 
+## v0.2.0 (2023-11-03)
+
+### Chore
+
+* chore: add ignores for local runners ([`d76905e`](https://github.com/rmpark1/plasmatk/commit/d76905e3c9e9f211373364cc3473621c75b1752b))
+
+### Feature
+
+* feat: add plot_mag_regimes ([`3cc50ff`](https://github.com/rmpark1/plasmatk/commit/3cc50fff1ec7a4fe9cbdca390240c00fec2d527f))
+
+### Test
+
+* test: add plotting test for mag regime ([`298918d`](https://github.com/rmpark1/plasmatk/commit/298918dd3dae174ba65b272656270e9575ef6f47))
+
+
 ## v0.1.6 (2023-11-02)
 
 ### Fix
