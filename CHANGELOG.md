@@ -2,6 +2,21 @@
 
 
 
+## v0.4.0 (2023-11-03)
+
+### Build
+
+* build: change to wildcard include cpp ([`484fc30`](https://github.com/rmpark1/plasmatk/commit/484fc30e6eb8f230ec422134be32d516cc42204c))
+
+### Feature
+
+* feat: add cpp routines ([`c62cb69`](https://github.com/rmpark1/plasmatk/commit/c62cb69237d304a24d1d950435950f563704ae23))
+
+### Test
+
+* test: add cpp tests ([`763d973`](https://github.com/rmpark1/plasmatk/commit/763d973b65cde8173c3a0d7b651d107b8fc60673))
+
+
 ## v0.3.0 (2023-11-03)
 
 ### Feature
