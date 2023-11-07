@@ -2,6 +2,21 @@
 
 
 
+## v0.5.0 (2023-11-07)
+
+### Documentation
+
+* docs: add rtd requirements and os spec ([`f61a82e`](https://github.com/rmpark1/plasmatk/commit/f61a82eba27b101e19de744202b051490509fdd6))
+
+### Feature
+
+* feat: add mag-coup boundaries and rectangle patch ([`e44ed12`](https://github.com/rmpark1/plasmatk/commit/e44ed127b32144878ae7ffdacddd5d731b054552))
+
+### Test
+
+* test: update mag-coup plot test with label checks ([`d78235e`](https://github.com/rmpark1/plasmatk/commit/d78235ec303dbc93859f7ef804848b9c5de352b6))
+
+
 ## v0.4.1 (2023-11-03)
 
 ### Build
