@@ -2,6 +2,29 @@
 
 
 
+## v0.5.1 (2023-11-07)
+
+### Build
+
+* build: test release option ([`a1cd5a9`](https://github.com/rmpark1/plasmatk/commit/a1cd5a99e13070b32cac0eac905988a31ed24cab))
+
+* build: add rtd theme to dev group ([`ea0096b`](https://github.com/rmpark1/plasmatk/commit/ea0096b62ab4bd7f0eab22f8e1b04776a502628f))
+
+### Documentation
+
+* docs: update docs requirements ([`1096bea`](https://github.com/rmpark1/plasmatk/commit/1096bea878282adc2587214b58213708e06be60d))
+
+* docs: Use rtd theme ([`4fb452b`](https://github.com/rmpark1/plasmatk/commit/4fb452ba53ed601cfddcdeb8dd8355f8f78877e6))
+
+* docs: remove image rtd config ([`f3e86c2`](https://github.com/rmpark1/plasmatk/commit/f3e86c28db7f777a0f924252a0368f1a0dbaba61))
+
+* docs: use v2 rtd yml interface ([`65400f7`](https://github.com/rmpark1/plasmatk/commit/65400f7f2ccbd3afc098c7e376ef16a200d9488e))
+
+### Fix
+
+* fix: double test release option ([`f9caaf0`](https://github.com/rmpark1/plasmatk/commit/f9caaf0e81e56cc245deccb197e9e9cccff52007))
+
+
 ## v0.5.0 (2023-11-07)
 
 ### Documentation
