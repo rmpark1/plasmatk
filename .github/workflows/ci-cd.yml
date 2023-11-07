@@ -75,9 +75,11 @@ jobs:
             git config user.email github-actions@github.com
             poetry run semantic-release version
             # Store if
+            echo ${{ env.RELEASE }}
             if [ -d dist ]; then
               echo "RELEASE=true" >> "$GITHUB_ENV"
             fi
+            echo ${{ env.RELEASE }}
 
       - name: Publish to TestPyPI
         if: env.RELEASE == 'true'
