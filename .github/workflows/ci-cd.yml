@@ -80,6 +80,7 @@ jobs:
               echo "RELEASE=true" >> "$GITHUB_ENV"
             fi
             echo ${{ env.RELEASE }}
+            echo ${{ env.RELEASE }}
 
       - name: Publish to TestPyPI
         if: env.RELEASE == 'true'
