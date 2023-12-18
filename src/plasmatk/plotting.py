@@ -44,9 +44,14 @@ def plot_mag_regimes(
        {"xytext": (0,-1)}, region_txt, **line_params)
     _make_boundary(ax, p.r_L, Gamma, .9, r"$r_c = a$",
        {"xytext": (0,0)}, region_txt, **line_params)
+    # Color regions
+    if colors:
+        if colors is True:
+            colors = ["#fbe8c4", "#f88e90", "#c8dbf6", "#bbd8bd"]
+            # TODO: color in regions
     
     # MITL condition boundaries
-    T_b = (1e2, 1e5)
+    T_b = (1e1, 1e5)
     n_b = (1e13, 1e17)
     B_b = (20, 200)
     G_b = (p.Gamma_e(T_b[1], n_b[0]),
@@ -78,10 +83,11 @@ def _make_boundary(ax, f, G, sp, text, tp, rt, **line_params):
         dar = bbox.width / bbox.height
         x1, x2 = np.log10(sp), np.log10(sp) + pct*log_rng
         y1, y2 = np.log10(f(sp)), np.log10(f(10**x2))
-        ax.scatter([10**x1, 10**x2], [10**y1, 10**y2])
+        # ax.scatter([10**x1, 10**x2], [10**y1, 10**y2])
         rot = 180/np.pi*np.arctan((y2-y1)/(x2-x1)) / ar / dar
         ax.annotate(text, (sp, f(sp)), fontsize=12,
-            rotation=rot*.9, rotation_mode="anchor",
+            rotation=rot, # rotation_mode="anchor",
+            horizontalalignment="left",
             textcoords="offset fontsize", **tp)
 
 def _add_region(ax, x, y, label=None):
