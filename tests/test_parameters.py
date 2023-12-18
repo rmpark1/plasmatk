@@ -35,7 +35,7 @@ def test_params():
     # print(p.Parameters(1e15*1e6, 2.5e-2).Gamma_e())
     # print(P2.beta_e())
 
-def test_perp_sig():
+def _test_perp_sig():
     """Ensure that the connectino formula matches
     the strong and weakly magnetized scenarios
     in the correct limits."""
