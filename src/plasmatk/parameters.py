@@ -1,6 +1,8 @@
 import numpy as np
+import sympy as sp
 import pandas as pd
 import scipy.constants as c
+
 
 class Parameters(object):
     r"""An enumeration of input plasma parameters.
@@ -10,7 +12,7 @@ class Parameters(object):
         n_e (array-like): Electron density :math:`\text{m}^{-3}`.
         B (array-like): Magnetic field strength (T).
     """
-    def __init__(self, n=None, T=None, B=None):
+    def __init__(self, n=None, T=None, B=None, kind=np):
         #: The independent parameters
         self.T = T
         self.n = n
