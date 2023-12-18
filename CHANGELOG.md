@@ -2,6 +2,17 @@
 
 
 
+## v0.6.0 (2023-12-18)
+
+### Feature
+
+* feat: add Parameters class with precompute ([`d8d9a6b`](https://github.com/rmpark1/plasmatk/commit/d8d9a6b8457c924ff2ce49beb7b1f68d1b3acf77))
+
+### Test
+
+* test: remove plot test from suite ([`8de1769`](https://github.com/rmpark1/plasmatk/commit/8de176972e0ded4690c4ddbde650b16e4689767c))
+
+
 ## v0.5.1 (2023-11-07)
 
 ### Build
